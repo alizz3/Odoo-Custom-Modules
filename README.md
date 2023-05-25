@@ -38,6 +38,6 @@ Estos módulos han sido desarrollados y probados en la versión 16 de Odoo y se 
 
 ## Contacto
 
-Si tienes alguna pregunta, sugerencia o comentario, no dudes en contactarme por correo electrónico: dev.doblezz@gmail.com.
+Si tienes alguna pregunta, sugerencia o comentario, no dudes en contactarme por correo electrónico: dev.doblezz@gmail.com; o en mi perfil de github: [@Alizz3](https://github.com/alizz3).
 
 ¡Espero que encuentres útiles estos módulos personalizados de Odoo! ¡Disfruta de la experiencia con Odoo y mejora tus proyectos empresariales!
