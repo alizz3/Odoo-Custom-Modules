@@ -25,7 +25,7 @@ Estos módulos han sido desarrollados y probados en la versión 16 de Odoo y se 
 
 ## Derechos de autor
 
-© [Aliz Mejía] - Todos los derechos reservados. Los módulos personalizados incluidos en este repositorio son propiedad de [Aliz Mejía]. Si deseas utilizarlos en tu proyecto, asegúrate de dar el debido crédito y atribución a [@Alizz3](https://github.com/alizz3) y este repositorio.
+© Aliz Mejía - Todos los derechos reservados. Los módulos personalizados incluidos en este repositorio son propiedad de Aliz Mejía. Si deseas utilizarlos en tu proyecto, asegúrate de dar el debido crédito y atribución a [@Alizz3](https://github.com/alizz3) y este repositorio.
 
 ## Contribuciones
 
