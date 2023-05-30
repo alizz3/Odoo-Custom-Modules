@@ -26,7 +26,7 @@ class BaseModelExtension(models.AbstractModel):
                 solicitud.Fecha_limite_pago = False
 
 
-# Esta es la documentación del código proporcionado, que incluye información sobre su funcionalidad y otros detalles relevantes:
+# Esta es la documentación del código, que incluye información sobre su funcionalidad y otros detalles relevantes:
 
 # La clase BaseModelExtension hereda de la clase models.AbstractModel en Odoo.
 # El atributo _inherit se establece en 'base', lo que indica que esta clase extiende el modelo base en Odoo.
