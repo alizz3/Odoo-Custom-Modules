@@ -4,7 +4,7 @@
     'summary': 'Breve descripción del módulo',
     'description': 'Descripción más detallada del módulo',
     'author': 'Aliz',
-    'depends': ['stock'],  # Dependencias de otros módulos si es necesario
+    'depends': ['base'],  # Dependencias de otros módulos si es necesario
     'data': [
         'views/views.xml',
     ],
