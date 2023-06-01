@@ -2,7 +2,7 @@ from odoo import models, fields
 
 
 class StockPicking(models.Model):
-    _inherit = 'stock.picking'
+    _inherit = 'base'
 
 # 1. Este fragmento de código define un campo llamado 'current_user' que se utiliza para almacenar el primer usuario conectado al momento de crear un nuevo registro en la vista formulario.
 
